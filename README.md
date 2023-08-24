@@ -8,6 +8,6 @@ This is a repository of principal submanifold proposed in Yao, Z., Li, B., Tran,
 
 ## 3. Seismological Data
 
-
+![1](https://github.com/zhigang-yao/submanifold/blob/main/Images/Demo_earthquake.png)
 
 ## 4. CMU-PIE data set
