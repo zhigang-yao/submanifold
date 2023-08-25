@@ -12,11 +12,18 @@ The core part of the algorithm is contained in the following four Matlab source 
 3. **submanifold_hypersphere.m**:  The submanifold_hypersphere.m function is similar with submanifold.m, but it is more suitable for dealing with high dimensional data set in a hypersphere.
 
 ## 2. Synthetic Data Studies
+Add all files in the path, and Run "Demo_simulation.m".
 
 ![1](https://github.com/zhigang-yao/submanifold/blob/main/Images/Demo_simulation.png)
 
 ## 3. Seismological Data
+Add all files in the path, and Run "Demo_earth.m".
 
 ![1](https://github.com/zhigang-yao/submanifold/blob/main/Images/Demo_earthquake.png)
 
 ## 4. CMU-PIE data set
+Add all files in the path, and Run "Demo_pie.m".
+
+![1](https://github.com/zhigang-yao/submanifold/blob/main/Images/Demo_pie.png)
+
+
